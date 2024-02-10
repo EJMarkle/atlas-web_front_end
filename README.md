@@ -1,1 +1,1 @@
-Some front end practice at Atlas school
+Some front end practice at Atlas school!
