@@ -1,1 +1,1 @@
-Some CSS practice!
+Some CSS practice at Atlas school
