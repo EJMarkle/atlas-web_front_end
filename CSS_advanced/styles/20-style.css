@@ -508,7 +508,7 @@ ul.row {
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
-.row {
+.row::after {
     clear: both;
     content: none;
     display: table;
